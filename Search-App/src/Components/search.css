@@ -36,3 +36,19 @@
 .item {
     margin: 12px;
 }
+
+.single_card {
+    z-index: 5;
+    position: absolute;
+    top: 40vh;
+    width: 50%;
+    height: 30%;
+    left: 24%;
+    border: 1px solid red;
+    background-color: rgb(145, 255, 56);
+    margin: 12px;
+    border-radius: 12px;
+    padding: 12px;
+    box-shadow: 1px 1px 12.5px -1px;
+    
+}
