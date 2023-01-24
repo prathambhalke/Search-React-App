@@ -1,0 +1,38 @@
+.search_container {
+    border: 2px solid red;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    padding: 12px;
+    flex-direction: column;
+}
+
+.input_container input {
+
+    width: 100%;
+    padding: 8px;
+}
+
+.main-card {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    flex-direction: column;
+    width: 100%;
+    text-align: center;
+}
+
+.card {
+    border: 1px solid red;
+    background-color: rgb(182, 255, 231);
+    width: 50%;
+    margin: 12px;
+    border-radius: 12px;
+    padding: 12px;
+}
+
+.item {
+    margin: 12px;
+}
